@@ -23,8 +23,8 @@ B	             3	           2
 C	             3	           3
 Query #6 Execution time: 0.72ms
 customer_id	product_id
-A	              2
-B	              1
+A	             2
+B	             1
 Query #7 Execution time: 12.21ms
 customer_id	product_id
 A	             1
@@ -32,14 +32,14 @@ A	             2
 B	             1
 Query #8 Execution time: 0.48ms
 customer_id	total_items	total_amount_spent
-A	              2	            25
-B	              3	            40
+A	              2	             25
+B	              3	             40
 Query #9 Execution time: 0.44ms
 customer_id	points
-A	           860
-B	           940
-C	           360
+A	          860
+B	          940
+C	          360
 Query #10 Execution time: 0.35ms
 customer_id	points
-A	           1370
-B	           940
+A	          1370
+B	          940
