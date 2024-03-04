@@ -8,4 +8,5 @@ sales
 menu
 members
 You can inspect the entity relationship diagram and example data below.
-## Entity Relationship Diagram
+## --Entity Relationship Diagram--
+![image](https://github.com/suhanibhargava4402/Danny-Ma-SQL-Challenge--Case-Study-1/assets/139199560/da715647-0027-4d74-bb4f-03cbf86e70e4)
